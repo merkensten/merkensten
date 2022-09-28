@@ -1,5 +1,7 @@
 # Mattis Erkensten 👋
 
+Jag är en JavaScript / TypeScript utvecklare med primärt fokus på Frontend som söker jobb.
+
 ## <a href="https://mattiserkensten.se" target="_blank">Min Portfolio</a>
 
 <!--
